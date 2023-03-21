@@ -3,7 +3,7 @@
 ### Deploying  a nginx container on   Kubernetes using terraform with Replicas and using backend service with Loadbalancer 
 
 ### Steps
-   1)Install AWS CLI,Terraform,Kubectl and git 
+   1)Install and setup AWS CLI(Configure aws access key and secret key),Terraform,Kubectl and git 
    
    2) Clone the repo 
    
