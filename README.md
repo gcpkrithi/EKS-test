@@ -18,6 +18,9 @@
       $aws eks --region us-east-1 update-kubeconfig --name test-eks-cluster
    
  ### Output
+ 
+ ![Screenshot (9)](https://user-images.githubusercontent.com/128479929/226618285-86ddd03c-3f1f-46ec-9b00-557c810e2c38.png)
+
  ![Screenshot (6)](https://user-images.githubusercontent.com/128479929/226608329-c5da0b0e-5e06-46f9-9c14-997f03d5296f.png)
 
 
