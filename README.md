@@ -1,6 +1,6 @@
 # EKS-test
 
-####Deploying  a nginx container on   Kubernetes using terraform with Loadbalancer and Replicaset
+### Deploying  a nginx container on   Kubernetes using terraform with Loadbalancer and Replicaset
 
 ### Steps
    1)Install AWS CLI,Terraform,Kubectl and git 
